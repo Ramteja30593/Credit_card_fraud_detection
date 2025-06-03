@@ -44,17 +44,4 @@ This project detects fraudulent credit card transactions using **Machine Learnin
    
 5. Execute the notebook to train and test the fraud detection model.
 
-📊 Sample Results
-- Fraudulent Transaction Detected:"Suspicious transaction flagged."
-- Legitimate Transaction:"Transaction approved."
- 
-❓How to Add This to GitHub?
-1. Create a `README.md` file in your project folder.
-2. Copy and paste the above content into `README.md`.
-3. Commit and push to GitHub:
-   git add README.md
-   git commit -m "Added README file"
-   git push origin main  # or your branch name
-   
-
  
